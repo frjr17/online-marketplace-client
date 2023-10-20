@@ -1,7 +1,5 @@
+import Image from "next/image";
+
 export default function Home() {
-  return (
-    <main>
-      <h1>Online Marketplace</h1>
-    </main>
-  );
+  return <h1 className="font-sans">Login</h1>;
 }
